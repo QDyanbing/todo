@@ -10,3 +10,7 @@
 - [ ] 晚饭安排
 - [ ] 猫砂清理+整理下猫毛
 - [ ] 淘宝收藏加入购物车
+
+## 备注
+
+对昨日完成的文档 https://www.yuque.com/gaoyanbing/aomcvi/dybyv5ce1e0qq8xd 做了一些修改
