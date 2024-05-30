@@ -7,4 +7,4 @@
 
 ## 个人任务
 
-- [ ] https://www.yuque.com/gaoyanbing/aomcvi/sfpw5khvfywgmgpq 完成 50%以上
+- [x] https://www.yuque.com/gaoyanbing/aomcvi/sfpw5khvfywgmgpq 完成 100%
