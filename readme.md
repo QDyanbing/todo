@@ -1,10 +1,12 @@
-# 2024-05-30
+# 2024-05-31
 
 ## 工作任务
 
-- [x] 合规评估/工作台测试：自测完成
-- [x] 隐私政策发布：发布完成
+- [ ] 合规评估测试
+- [ ] 研发每周周会
 
 ## 个人任务
 
-- [x] https://www.yuque.com/gaoyanbing/aomcvi/sfpw5khvfywgmgpq 完成 100%
+- [ ] 完成 https://www.yuque.com/gaoyanbing/aomcvi/grk42fcb49usxea6 文档
+- [ ] 搭建 react 源码调试环境
+- [ ] 恰饭
