@@ -7,6 +7,6 @@
 
 ## 个人任务
 
-- [ ] 完成 https://www.yuque.com/gaoyanbing/aomcvi/grk42fcb49usxea6 文档
+- [x] 完成 https://www.yuque.com/gaoyanbing/aomcvi/grk42fcb49usxea6 文档
 - [ ] 搭建 react 源码调试环境
 - [ ] 恰饭
