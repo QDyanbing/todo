@@ -1,12 +1,13 @@
-# 2024-05-31
+# 2024-06-01
 
 ## 工作任务
 
-- [ ] 合规评估测试
-- [ ] 研发每周周会
+- [ ] 评论需求提测
+- [ ] 暂时还没安排具体任务，需要对接
 
 ## 个人任务
 
-- [x] 完成 https://www.yuque.com/gaoyanbing/aomcvi/grk42fcb49usxea6 文档
-- [ ] 搭建 react 源码调试环境
-- [ ] 恰饭
+- [ ] 完成 https://www.yuque.com/gaoyanbing/aomcvi/hwokgfoabzx3i2hy 文档
+- [ ] 完成 forEach 文档
+- [ ] 老王明天带饭准备
+- [ ] 快递应该到了，取快递
