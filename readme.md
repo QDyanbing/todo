@@ -8,6 +8,6 @@
 ## 个人任务
 
 - [ ] 完成 https://www.yuque.com/gaoyanbing/aomcvi/hwokgfoabzx3i2hy 文档
-- [ ] 完成 forEach 文档
+- [x] 完成 forEach 文档
 - [ ] 老王明天带饭准备
 - [ ] 快递应该到了，取快递
