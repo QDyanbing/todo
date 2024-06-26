@@ -6,4 +6,8 @@
 
 ## 个人任务
 
-- [ ] https://www.yuque.com/gaoyanbing/aomcvi/ddocau7lcgv10iaa
+- [x] https://www.yuque.com/gaoyanbing/aomcvi/ddocau7lcgv10iaa
+
+## 备注
+
+1. 基础文档已经更好了下个月开始：阅读、勘误、追加理解
